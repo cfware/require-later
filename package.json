@@ -1,0 +1,29 @@
+{
+  "name": "@cfware/require-later",
+  "version": "0.1.0",
+  "description": "ES6 Proxy object for delayed module require.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/.bin/eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cfware/require-later.git"
+  },
+  "keywords": [
+    "require",
+    "delayed"
+  ],
+  "engines": {
+    "node": "~6.10.0"
+  },
+  "author": "Corey Farrell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cfware/require-later/issues"
+  },
+  "homepage": "https://github.com/cfware/require-later#readme",
+  "devDependencies": {
+    "eslint": "^3.19.0"
+  }
+}
