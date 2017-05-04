@@ -1,6 +1,6 @@
 {
   "name": "@cfware/require-later",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "ES6 Proxy object for delayed module require.",
   "main": "index.js",
   "scripts": {
@@ -15,7 +15,7 @@
     "delayed"
   ],
   "engines": {
-    "node": "~6.10.0"
+    "node": "~6.10.0 || ~7.9.0"
   },
   "author": "Corey Farrell",
   "license": "MIT",
