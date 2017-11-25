@@ -1,5 +1,7 @@
 # @cfware/require-later
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/cfware/require-later.svg)](https://greenkeeper.io/)
+
 [![NPM Version][npm-image]][npm-url]
 [![NPM Downloads][downloads-image]][downloads-url]
 [![MIT][license-image]](LICENSE)
